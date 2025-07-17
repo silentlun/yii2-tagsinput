@@ -1,0 +1,21 @@
+{
+    "name": "silentlun/yii2-tagsinput",
+    "description": "tagsinput",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","tagsinput"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "silentlun",
+            "email": "4668460@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "silentlun\\tagsinput\\": "src"
+        }
+    }
+}
